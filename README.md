@@ -7,6 +7,9 @@ Este projeto contém 1 desafio implementado com .NET 8, demonstrando conceitos d
 ```
 projeto2-fccp/
 ├── desafio1/          # Containers em Rede
+├── desafio3/          # Microsserviços com API Gateway
+├── desafio4/          # Microsserviços Independentes
+├── desafio5/          # Containers em Rede
 ```
 
 ## Pré-requisitos
